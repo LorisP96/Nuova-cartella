@@ -1,5 +1,4 @@
-body {
-    background-color: black;
+* {
     font-family: 'Rock Salt', cursive;
 }
 
@@ -12,4 +11,9 @@ body {
 .yellow {
     color: yellow;
     font-size: 50px;
+}
+
+h1 {
+    -webkit-text-stroke: 0.1px black;
+    text-shadow: -2px 2px 1px rgba(0, 0, 0);
 }
