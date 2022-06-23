@@ -1,0 +1,14 @@
+body {
+    background-color: darkgray;
+}
+
+#app {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.yellow {
+    color: yellow;
+    font-size: 50px;
+}
